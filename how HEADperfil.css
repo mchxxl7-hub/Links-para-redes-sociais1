@@ -14,7 +14,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: #141414;
+   background-color: red !important;
 }
 
 .card {
@@ -78,8 +78,6 @@ body {
     font-weight: bold;
     outline: none;
     user-select: none;
-    background-color: #3A3A3A;
-
 }
 
 .card-github a {
