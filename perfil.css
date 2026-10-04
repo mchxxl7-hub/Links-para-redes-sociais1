@@ -78,6 +78,11 @@ body {
     font-weight: bold;
     outline: none;
     user-select: none;
+    -webkit-tap-highlight-color: transparent;
 
 
+}
+
+.card-github a:focus-visible {
+    outline: 2px solid;
 }
